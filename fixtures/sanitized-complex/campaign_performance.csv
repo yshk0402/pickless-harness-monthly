@@ -1,0 +1,9 @@
+date,platform,campaign,impressions,clicks,cost,platform_conversions,ga4_conversions
+2026-05-31,google_ads,FS Search Core,12000,480,240000,24,21
+2026-05-31,google_ads,FS Search Longtail,6000,300,120000,15,13
+2026-05-31,google_ads,Carbon Search Core,9000,360,198000,18,17
+2026-05-31,google_ads,Carbon Display,30000,240,96000,6,5
+2026-06-30,google_ads,FS Search Core,13500,540,275400,25,22
+2026-06-30,google_ads,FS Search Longtail,8500,510,229500,17,13
+2026-06-30,google_ads,Carbon Search Core,10000,420,222600,21,19
+2026-06-30,google_ads,Carbon Display,36000,324,113400,9,7

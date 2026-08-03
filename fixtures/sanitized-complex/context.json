@@ -1,0 +1,14 @@
+{
+  "case_name": "合成B2B複数商材レポート",
+  "current_month": "2026-06",
+  "previous_month": "2026-05",
+  "timezone": "Asia/Tokyo",
+  "goals": ["有効な資料請求の獲得", "商材別CPAの安定"],
+  "target_audience": "企業の業務改革・環境対応を担当する部門",
+  "changes_during_period": ["Future Stageの検索語句拡張", "Carbon Displayのクリエイティブ差し替え"],
+  "external_factors": ["大型連休明けの検索需要回復"],
+  "primary_conversion_source": "platform_conversions",
+  "reviewer": "案件責任者（合成）",
+  "query_candidate_thresholds": {"min_cost": 10000, "min_clicks": 3},
+  "data_notes": ["数値・名称はすべて合成", "顧客固有データは含まない"]
+}

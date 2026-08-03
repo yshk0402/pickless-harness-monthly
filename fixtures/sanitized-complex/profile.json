@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "client_key": "SANITIZED-COMPLEX-B2B",
+  "campaign_groups": [
+    {"campaign": "Carbon Display", "product_group": "Carbon Suite"},
+    {"campaign": "Carbon Search Core", "product_group": "Carbon Suite"},
+    {"campaign": "FS Search Core", "product_group": "Future Stage"},
+    {"campaign": "FS Search Longtail", "product_group": "Future Stage"}
+  ],
+  "sections": [
+    "executive_summary",
+    "kpi_overview",
+    "product_breakdown",
+    "campaign_breakdown",
+    "search_query_review",
+    "actions",
+    "questions"
+  ]
+}
